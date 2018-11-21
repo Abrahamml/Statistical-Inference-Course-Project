@@ -62,14 +62,23 @@ A sample set of headings that could be used to guide the creation of your report
 Title (give an appropriate title) and Author Name
 Overview: In a few (2-3) sentences explain what is going to be reported on.
 Simulations: Include English explanations of the simulations you ran, with the accompanying R code. Your explanations should make clear what the R code accomplishes.
+
 Sample Mean versus Theoretical Mean: Include figures with titles. In the figures, highlight the means you are comparing. Include text that explains the figures and what is shown on them, and provides appropriate numbers.
-Sample Variance versus Theoretical Variance: Include figures (output from R) with titles. Highlight the variances you are comparing. Include text that explains your understanding of the differences of the variances.
+
+Sample Variance versus Theoretical Variance: Include figures (output from R) with titles. Highlight the variances you are comparing. 
+
+Include text that explains your understanding of the differences of the variances.
+
 Distribution: Via figures and text, explain how one can tell the distribution is approximately normal.
 Part 2: Basic Inferential Data Analysis Instructions
 less 
 
 Now in the second portion of the project, we're going to analyze the ToothGrowth data in the R datasets package. 
+
 Load the ToothGrowth data and perform some basic exploratory data analyses
+
 Provide a basic summary of the data.
+
 Use confidence intervals and/or hypothesis tests to compare tooth growth by supp and dose. (Only use the techniques from class, even if there's other approaches worth considering)
+
 State your conclusions and the assumptions needed for your conclusions.
